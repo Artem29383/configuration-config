@@ -1,6 +1,6 @@
 {
   "source": "internet",
-  "configVersion": 0,
+  "configVersion": 1,
   "application": {
     "version": "0.0.1",
     "application_name": "Musifly",
