@@ -8,6 +8,6 @@
   },
   "rejectCountriesList": ["RU"],
   "urls": {
-    "countryChecker": "http://ipinfo.io/json"
+    "countryChecker": "https://ipinfo.io/json"
   }
 }
