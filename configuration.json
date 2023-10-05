@@ -5,5 +5,9 @@
     "version": "0.0.1",
     "application_name": "Musifly",
     "application_company": "Musifly Inc."
+  },
+  "rejectCountriesList": [],
+  "urls": {
+    "countryChecker": "http://ipinfo.io/json"
   }
 }
