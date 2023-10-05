@@ -6,7 +6,7 @@
     "application_name": "Musifly",
     "application_company": "Musifly Inc."
   },
-  "rejectCountriesList": ["RU"],
+  "rejectCountriesList": [""],
   "urls": {
     "countryChecker": "https://ipinfo.io/json"
   }
